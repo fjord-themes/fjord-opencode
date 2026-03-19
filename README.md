@@ -1,6 +1,6 @@
 # Fjord Theme for opencode
 
-The Fjord theme for Opencode AI.
+A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/cyan separation for opencode — the AI coding assistant for the terminal.
 
 ## 🎨 Color Palette
 
@@ -47,54 +47,12 @@ mkdir -p ~/.config/opencode/themes/
 cp fjord-opencode/themes/fjord.json ~/.config/opencode/themes/.
 ```
 
-3. Add the theme to your opencode config (`~/.config/opencode/themes/Fjord.json`):
 
 
 
 
 
 
-## 🔧 Configuration
-
-### Status Content
-
-To disable the status bar content:
-
-```tmux
-set -g @fjord_tmux_show_status_content 0
-```
-
-### Date Format
-
-Customize the date format in the status bar:
-
-```tmux
-set -g @fjord_tmux_date_format "%Y-%m-%d"
-```
-
-### No Patched Font
-
-If you don't have a powerline-patched font installed, disable the special characters:
-
-```tmux
-set -g @fjord_tmux_no_patched_font 1
-```
-
-## Plugin Support
-
-Fjord supports the following plugins:
-
-- [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) - Shows a visual indicator when prefix is pressed
-
-To use tmux-prefix-highlight, install it AFTER the Fjord theme:
-
-```tmux
-set -g @plugin 'fjord-theme/tmux-fjord'
-set -g @plugin 'tmux-plugins/tmux-prefix-highlight'
-```
-## 📸 Preview
-
-![Fjord opencode Theme](https://github.com/fjord-themes/fjord-tmux/blob/main/images/opencode.png)
 
 
 ## 🔄 Updates
