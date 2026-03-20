@@ -33,22 +33,18 @@ A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/
 ### Manual Installation
 
 
-1. Clone this repository:
+1. Clone the theme to your config directory:
 
 ```bash
-git clone https://github.com/fjord-themes/fjord-opencode.git --depth 1
+mkdir -p ~/.config/opencode/themes/
+git clone https://github.com/fjord-themes/fjord-opencode.git --depth 1 ~/.config/opencode/themes/fjord-opencode
 ```
-
 
 2. Copy the theme file to your opencode themes directory:
 
 ```bash
-mkdir -p ~/.config/opencode/themes/
-cp fjord-opencode/themes/fjord.json ~/.config/opencode/themes/.
+cp ~/.config/opencode/themes/fjord-opencode/themes/fjord.json ~/.config/opencode/themes/fjord.json
 ```
-
-
-
 
 
 
