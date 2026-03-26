@@ -2,6 +2,7 @@
 
 A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/cyan separation for opencode — the AI coding assistant for the terminal.
 
+
 ## 🎨 Color Palette
 
 ### Core Colors
@@ -45,7 +46,6 @@ git clone https://git.jshuntley.com/fjord-theme/fjord-opencode.git --depth 1 ~/.
 ```bash
 cp ~/.config/opencode/themes/fjord-opencode/themes/fjord.json ~/.config/opencode/themes/fjord.json
 ```
-
 
 
 
