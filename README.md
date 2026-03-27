@@ -1,6 +1,6 @@
 # Fjord Theme for opencode
 
-A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/cyan separation for opencode — the AI coding assistant for the terminal.
+A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/cyan separation for opencode — the AI coding assistant for the terminal.
 
 
 ## 🎨 Color Palette
