@@ -1,6 +1,6 @@
-# Fjord Theme for opencode
+# Fjord Theme for OpenCode
 
-A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/cyan separation for opencode — the AI coding assistant for the terminal.
+A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/cyan separation for OpenCode — the AI coding assistant for the terminal.
 
 
 ## 🎨 Color Palette
@@ -38,7 +38,7 @@ A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/c
 
 ```bash
 mkdir -p ~/.config/opencode/themes/
-git clone https://git.jshuntley.com/fjord-theme/fjord-opencode.git --depth 1 ~/.config/opencode/themes/fjord-opencode
+git clone https://github.com/fjord-themes/fjord-opencode.git --depth 1 ~/.config/opencode/themes/fjord-opencode
 ```
 
 2. Copy the theme file to your opencode themes directory:
