@@ -41,11 +41,13 @@ mkdir -p ~/.config/opencode/themes/
 git clone https://github.com/fjord-themes/fjord-opencode.git --depth 1 ~/.config/opencode/themes/fjord-opencode
 ```
 
-2. Copy the theme file to your opencode themes directory:
+2. Copy the theme file to your OpenCode themes directory:
 
 ```bash
 cp ~/.config/opencode/themes/fjord-opencode/themes/fjord.json ~/.config/opencode/themes/fjord.json
 ```
+
+3. In OpenCode, run `/theme` and select **Fjord** from the list.
 
 
 
